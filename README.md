@@ -1,60 +1,18 @@
-<h2 align="center">Hi 👋! I'm Prateek Malik</h2>
+# 💫 About Me:
+🔭 Working on AI/ML & Web Dev projects<br>👯 Open to collaborating on cool tech ideas<br>🤝 Looking for help with DSA & ML<br>🌱 Learning AI/ML and Backend Dev<br>💬 Ask me about Java, Web Dev & Analytics<br>⚡ Fun fact: I turn caffeine into code ☕<br>
 
-<h4 align="center">BTech CSE Student • AI/ML Enthusiast • Web Developer • Problem Solver</h4>
 
-###
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prateekmalik1/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prateekmalik0001@gmail.com) 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prateekmalik1&show_icons=true&theme=tokyonight" height="150" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prateekmalik1&layout=compact&theme=tokyonight" height="150" />
-</div>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Prateekmalik1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Prateekmalik1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Prateekmalik1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-###
+---
+[![](https://komarev.com/ghpvc/?username=Prateekmalik1&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhhMWVjOGVjcHN4d3FsYjJ1aWhxYm53bHMxbmcyZHhoamphN2RuMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uHo3T7P0YX7Ec/giphy.gif" />
-
-###
-
-<h3 align="left">🚀 Tech Stack</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" />
-</div>
-
-###
-
-<h3 align="left">📫 Connect With Me</h3>
-
-<div align="left">
-  <a href="mailto:prateekmalik0001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/prateekmalik1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Prateekmalik1/Prateekmalik1/output/github-contribution-grid-snake.svg" />
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
